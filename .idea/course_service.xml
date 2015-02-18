@@ -24,7 +24,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="36" />
                                   <option name="line" value="1" />
                                   <option name="replacementLength" value="5" />
                                   <option name="start" value="0" />
@@ -33,7 +33,7 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="print" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="36" />
                                   <option name="myTaskText" value="kirjuta teksti väljstamise korraldus" />
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="1" />
@@ -67,7 +67,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="36" />
                                       <option name="line" value="1" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="0" />
@@ -76,7 +76,7 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="print" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="36" />
                                       <option name="myTaskText" value="kirjuta teksti väljstamise korraldus" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
@@ -151,6 +151,127 @@
               </map>
             </option>
           </Lesson>
+          <Lesson>
+            <option name="index" value="3" />
+            <option name="name" value="Kolmas" />
+            <option name="task_list">
+              <list>
+                <Task>
+                  <option name="index" value="1" />
+                  <option name="name" value="Aritmeetikaoperaatorid" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="2" />
+                                  <option name="replacementLength" value="5" />
+                                  <option name="start" value="0" />
+                                  <option name="taskText" value="siia korraldus" />
+                                  <option name="line" value="2" />
+                                  <option name="start" value="0" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="print" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="siia korraldus" />
+                                  <option name="myReplacementLength" value="5" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="2" />
+                                  <option name="replacementLength" value="1" />
+                                  <option name="start" value="9" />
+                                  <option name="taskText" value="siia jagamistehe" />
+                                  <option name="line" value="2" />
+                                  <option name="start" value="9" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="/" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="siia jagamistehe" />
+                                  <option name="myReplacementLength" value="1" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="1" />
+                </Task>
+              </list>
+            </option>
+            <option name="myIndex" value="3" />
+            <option name="myTasksMap">
+              <map>
+                <entry key="task1">
+                  <value>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Aritmeetikaoperaatorid" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="0" />
+                                      <option name="taskText" value="siia korraldus" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="0" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="print" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="siia korraldus" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="9" />
+                                      <option name="taskText" value="siia jagamistehe" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="9" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="/" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="siia jagamistehe" />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </Lesson>
         </list>
       </option>
       <option name="description" value="Ülesanded ja testid valikkursuse Rakenduste loomise ja proigrammeerimise alused Pythoni osa juurde" />
@@ -177,7 +298,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="36" />
                                       <option name="line" value="1" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="0" />
@@ -186,7 +307,7 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="print" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="36" />
                                       <option name="myTaskText" value="kirjuta teksti väljstamise korraldus" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
@@ -220,7 +341,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="36" />
                                           <option name="line" value="1" />
                                           <option name="replacementLength" value="5" />
                                           <option name="start" value="0" />
@@ -229,7 +350,7 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="print" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="36" />
                                           <option name="myTaskText" value="kirjuta teksti väljstamise korraldus" />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="1" />
@@ -294,6 +415,131 @@
                                   <TaskFile>
                                     <option name="task_windows">
                                       <list />
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                  </map>
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+          <entry key="lesson3">
+            <value>
+              <Lesson>
+                <option name="index" value="3" />
+                <option name="name" value="Kolmas" />
+                <option name="task_list">
+                  <list>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Aritmeetikaoperaatorid" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="0" />
+                                      <option name="taskText" value="siia korraldus" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="0" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="print" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="siia korraldus" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="9" />
+                                      <option name="taskText" value="siia jagamistehe" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="9" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="/" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="siia jagamistehe" />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </list>
+                </option>
+                <option name="myIndex" value="3" />
+                <option name="myTasksMap">
+                  <map>
+                    <entry key="task1">
+                      <value>
+                        <Task>
+                          <option name="index" value="1" />
+                          <option name="name" value="Aritmeetikaoperaatorid" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="2" />
+                                          <option name="replacementLength" value="5" />
+                                          <option name="start" value="0" />
+                                          <option name="taskText" value="siia korraldus" />
+                                          <option name="line" value="2" />
+                                          <option name="start" value="0" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="print" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="siia korraldus" />
+                                          <option name="myReplacementLength" value="5" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="2" />
+                                          <option name="replacementLength" value="1" />
+                                          <option name="start" value="9" />
+                                          <option name="taskText" value="siia jagamistehe" />
+                                          <option name="line" value="2" />
+                                          <option name="start" value="9" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="/" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="siia jagamistehe" />
+                                          <option name="myReplacementLength" value="1" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
                                     </option>
                                     <option name="myIndex" value="1" />
                                   </TaskFile>
